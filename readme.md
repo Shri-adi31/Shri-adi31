@@ -2,7 +2,6 @@
 
 I am a CSE graduate and a web developer .
 
-![Programming nerd](https://i.imgur.com/YxLZOjO.jpg)
 
 Number of unique visitors: **0**
 
