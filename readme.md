@@ -1,14 +1,10 @@
 # My name is Shriman Aditya
 
-I am a CSE undergraduate and a web developer .
+I am a student developer specializing in 
+-AI/ML engineering, 
+-data engineering, and 
+-web development. 
 
-
-
-
-
-- JavaScript 
-- HTML
-- CSS
-- Python 
+I engineer machine learning models, develop web applications, and architect data solutions
 
 
