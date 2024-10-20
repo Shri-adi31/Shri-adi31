@@ -1,6 +1,6 @@
 # Shriman Aditya Ranjan Nayak
 
-![Profile Banner](https://via.placeholder.com/1500x500.png?text=Shriman+Aditya+-+AI%2FML+Engineer+%7C+Data+Engineer+%7C+Web+Developer)  
+![life.png](https://github.com/Shri-adi31/Shri-adi31/blob/72532af204902e39deecb39edcce12ccf576ea43/life.png)
 *Your Presense is highly appreciated!*
 
 🙏 Namaste, I’m **Shriman Aditya**, a student developer with a deep passion for **AI/ML engineering**, **data engineering**, and **web development**. My work revolves around building intelligent systems, designing scalable architectures, and developing user-friendly web applications.  
